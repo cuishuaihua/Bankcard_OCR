@@ -7,8 +7,8 @@
   ```angular2
   sh setup.sh
   ```
-   #### 1.2将测试图片放入demo/test_images目录，检测结果会保存到demo/test_result中
-   #### 1.3执行demo文件下的demo.py
+   #### 1.2将测试图片放入demo/test_images目录
+   #### 1.3执行demo文件下的demo.py，检测结果会保存到demo/test_result中
   ```angular2
   python demo.py
   ```
