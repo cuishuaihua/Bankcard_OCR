@@ -14,3 +14,9 @@
   ```
 ## 2、效果展示
 ![效果图](https://github.com/taigege/Bankcard_OCR/blob/master/demo/test_result/card_1.jpg)
+
+## 3、训练
+### 3.1不定长文本识别训练
+### 3.2CTPN训练
+## 参考：
+[1] https://github.com/YCG09/chinese_ocr
