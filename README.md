@@ -12,12 +12,12 @@
   ```angular2
   python demo.py
   ```
-  
+      
 ## 2、效果展示：
 ![效果图1](https://github.com/taigege/Bankcard_OCR/blob/master/demo/test_result/card_1.jpg)
 ![效果图2](https://github.com/taigege/Bankcard_OCR/blob/master/demo/test_result/result1.PNG)
-
-## 3、训练
+    
+## 3、训练：
 ### 3.1不定长文本识别训练
    #### 3.1.1进入data_processing文件下，根据自己需要修改char_std_5990.txt里的内容，然后按照如下顺序依次执行
    ```angular2
@@ -30,6 +30,6 @@
  #### 3.2.1训练代码和银行卡的训练集上传到了百度云：
 图片存放在text-detection-ctpn-untagged\data\VOCdevkit2007\VOC2007\JPEGImages下，有2000张左右的训练集。
  #### 3.2.2具体训练过程参考：https://github.com/eragonruan/text-detection-ctpn
- 
+      
 ## 代码来源：
 [1] https://github.com/YCG09/chinese_ocr
