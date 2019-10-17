@@ -23,5 +23,3 @@ sh setup.sh
 ```
 python3 demo.py
 ```
-
-###注：模型训练配置见项目文档
