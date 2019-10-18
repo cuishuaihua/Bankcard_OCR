@@ -27,7 +27,8 @@
    #### 3.1.2训练完成的权重文件存放在/data_processing/models下
    #### 3.1.2将训练好的权重替换densenet/models/weights_densenet.h5
 ### 3.2CTPN训练：
- #### 3.2.1训练代码和银行卡的训练集上传到了百度云：
+ #### 3.2.1训练代码和银行卡的训练集上传到了百度云：链接：https://pan.baidu.com/s/1AbUwbAs_SutehBCBnp881A&shfl=sharepset 提取码：5r4j 
+
 图片存放在text-detection-ctpn-untagged\data\VOCdevkit2007\VOC2007\JPEGImages下，有2000张左右的训练集。
  #### 3.2.2具体训练过程参考：https://github.com/eragonruan/text-detection-ctpn
       
